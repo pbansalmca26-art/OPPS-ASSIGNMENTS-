@@ -1,1 +1,1 @@
-OOP Lab 5 C++
+OOP Lab 6 C++
